@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx](./VB/Default.aspx))
-* [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx](./VB/Default.aspx))
+* [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 * [AccessibilityHelper.js](./CS/scripts/AccessibilityHelper.js) (VB: [AccessibilityHelper.js](./VB/scripts/AccessibilityHelper.js))
 * [db.js](./CS/scripts/db.js) (VB: [db.js](./VB/scripts/db.js))
 <!-- default file list end -->

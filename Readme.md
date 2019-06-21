@@ -7,6 +7,9 @@
 * [db.js](./CS/scripts/db.js) (VB: [db.js](./VB/scripts/db.js))
 <!-- default file list end -->
 # Accessibility: How to provide a screen reader with custom messages
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t446565/)**
+<!-- run online end -->
 
 
 <p>This example illustrates how to provide a custom message to an Assistive Technology (for example, Screen Reader). The main idea of this approach is to add a special helper element to the page, set your custom message as its "aria-label" attribute value, and then focus this element. This will force your screen reader or another assistive technology to read the message.</p>
